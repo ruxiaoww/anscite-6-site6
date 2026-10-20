@@ -1,0 +1,13 @@
+# Anscite
+
+> Anscite's self-serve GEO platform lets your content team build brand fact libraries, publish optimized independent sites, and run AI probe reports on demand.
+
+Official website: https://www.anscite.com/
+
+## Pages
+
+- [Self-serve GEO Platform | Anscite](https://en-platform.anscite.com/): Anscite's self-serve GEO platform lets your content team build brand fact libraries, publish optimized independent sites, and run AI probe reports on demand.
+- [About · Anscite](https://en-platform.anscite.com/about/): Anscite provides a self-serve GEO platform for brands that want to appear in AI answers using their own content team.
+- [Products · Anscite](https://en-platform.anscite.com/products/): Anscite's self-serve GEO platform lets your content team build brand fact libraries, publish optimized independent sites, and run AI probe reports on demand.
+- [FAQ · Anscite](https://en-platform.anscite.com/faq/): Anscite's self-serve GEO platform lets your content team build brand fact libraries, publish optimized independent sites, and run AI probe reports on demand.
+- [Contact · Anscite](https://en-platform.anscite.com/contact/): Contact Anscite about the self-serve GEO platform at biz@anscite.com.
