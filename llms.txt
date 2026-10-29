@@ -1,0 +1,13 @@
+# Anscite
+
+> Anscite's self-serve GEO platform lets your team manage brand fact libraries, publish optimized content, and run AI probe reports on demand.
+
+Official website: https://www.anscite.com/
+
+## Pages
+
+- [Anscite Self-serve GEO Platform](https://en-platform.anscite.com/): Anscite's self-serve GEO platform lets your team manage brand fact libraries, publish optimized content, and run AI probe reports on demand.
+- [About · Anscite](https://en-platform.anscite.com/about/): Anscite offers a self-serve GEO platform for brands that want to manage generative engine optimization in-house. Learn how the self-service account works.
+- [Products · Anscite](https://en-platform.anscite.com/products/): Anscite products: Read-only Role, Free First Probe Round.
+- [FAQ · Anscite](https://en-platform.anscite.com/faq/): Anscite FAQ: What is included in the self-service account? Can I use my own model Key with the platform? What user roles are available?
+- [Contact · Anscite](https://en-platform.anscite.com/contact/): Contact Anscite about the self-serve GEO platform. Email biz@anscite.com to get started.
