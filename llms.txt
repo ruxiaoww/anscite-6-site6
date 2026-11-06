@@ -1,0 +1,13 @@
+# Anscite
+
+> Anscite's self-serve GEO platform lets you run AI visibility checks and manage your brand's presence in AI answers. Plans from ¥399/month.
+
+Official website: https://www.anscite.com/
+
+## Pages
+
+- [Anscite Self-Serve GEO Platform - Manage Your Brand's AI Visibility](https://en-platform.anscite.com/): Anscite's self-serve GEO platform lets you run AI visibility checks and manage your brand's presence in AI answers. Plans from ¥399/month.
+- [About: Self-serve GEO platform · Anscite](https://en-platform.anscite.com/about/): Learn about Anscite, the company behind the self-serve GEO platform for managing brand visibility in AI answers.
+- [Projects: Self-serve GEO platform · Anscite](https://en-platform.anscite.com/cases/): Anscite projects: Website filing and server migration, First probe round, Expanded probe to four AI models.
+- [FAQ: Self-serve GEO platform · Anscite](https://en-platform.anscite.com/faq/): Anscite FAQ: What is the self-serve GEO platform? How much does the self-serve platform cost? How many brand sites can I manage?
+- [Contact: Self-serve GEO platform · Anscite](https://en-platform.anscite.com/contact/): Contact Anscite for questions about the self-serve GEO platform or to get started.
